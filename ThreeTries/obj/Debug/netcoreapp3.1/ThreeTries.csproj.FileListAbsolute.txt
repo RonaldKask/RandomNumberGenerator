@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\obj\Debug\netcoreapp3.1\ThreeTries.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\obj\Debug\netcoreapp3.1\ThreeTries.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\obj\Debug\netcoreapp3.1\ThreeTries.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\obj\Debug\netcoreapp3.1\ThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\bin\Debug\netcoreapp3.1\ThreeTries.exe
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\bin\Debug\netcoreapp3.1\ThreeTries.deps.json
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\bin\Debug\netcoreapp3.1\ThreeTries.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\bin\Debug\netcoreapp3.1\ThreeTries.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\bin\Debug\netcoreapp3.1\ThreeTries.dll
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\bin\Debug\netcoreapp3.1\ThreeTries.pdb
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\obj\Debug\netcoreapp3.1\ThreeTries.dll
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\obj\Debug\netcoreapp3.1\ThreeTries.pdb
+C:\Users\opilane\source\repos\WhileLoop\ThreeTries\obj\Debug\netcoreapp3.1\ThreeTries.genruntimeconfig.cache

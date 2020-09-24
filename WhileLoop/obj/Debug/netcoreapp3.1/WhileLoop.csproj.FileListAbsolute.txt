@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.exe
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.deps.json
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.dll
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.pdb
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.dll
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.pdb
+C:\Users\opilane\source\repos\WhileLoop\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.genruntimeconfig.cache

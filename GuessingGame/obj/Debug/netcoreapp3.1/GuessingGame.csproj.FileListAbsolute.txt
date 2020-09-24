@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\opilane\source\repos\WhileLoop\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.genruntimeconfig.cache
